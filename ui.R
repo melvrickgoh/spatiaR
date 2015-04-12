@@ -1,0 +1,3 @@
+shinyUI(bootstrapPage(
+  plotOutput("kde")
+))
